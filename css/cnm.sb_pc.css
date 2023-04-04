@@ -366,7 +366,6 @@ li{
 	 src: url("//at.alicdn.com/wf/webfont/wVIDNzH7Qooy/8y6xSWvcoRs2.woff2") format("woff2"),
   url("//at.alicdn.com/wf/webfont/wVIDNzH7Qooy/UkclPX7ykCXK.woff") format("woff");
   	font-display: swap;
-	display: flex;
-	justify-content: center;
+	
 }
 
